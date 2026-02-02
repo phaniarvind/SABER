@@ -20,7 +20,9 @@ Note: Running the tool may take several minutes, please be patient.
 To find the detailed instructions on how to run the tool, please navigate to the *docs* folder above.
 
 # Contact
-Phani Arvind Vadali
+Phani Arvind Vadali,
+
 Building Energy Smart Technologies (BEST) Center,
 University of Colorado, Boulder
+
 Email: phani.vadali@colorado.edu
