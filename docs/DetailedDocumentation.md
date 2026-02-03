@@ -1,6 +1,4 @@
----
-title: "Detailed Documentation"
----
+
 
 Welcome to the detailed documentation of our project. This guide will help you understand the various features and functionalities available.
 
